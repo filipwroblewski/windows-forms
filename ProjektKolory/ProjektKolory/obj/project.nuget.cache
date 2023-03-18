@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "vs+r54m7oImcH0cpR0SGrtkRxTpD/JffE3FKqI5EPXFabtpch/uAQkiRTwDmc/UWA2eqkLY5dzPhhKFbbJ2ZnA==",
+  "success": true,
+  "projectFilePath": "C:\\Codding\\CSharp\\ProjektKolory\\ProjektKolory\\ProjektKolory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

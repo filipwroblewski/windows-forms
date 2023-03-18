@@ -1,0 +1,17 @@
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ProjektKolory.csproj.AssemblyReference.cache
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ProjektKolory.csproj.GenerateResource.cache
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ProjektKolory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ProjektKolory.AssemblyInfoInputs.cache
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ProjektKolory.AssemblyInfo.cs
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ProjektKolory.csproj.CoreCompileInputs.cache
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ProjektKolory.Form1.resources
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\bin\Debug\net6.0-windows\ProjektKolory.exe
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\bin\Debug\net6.0-windows\ProjektKolory.deps.json
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\bin\Debug\net6.0-windows\ProjektKolory.runtimeconfig.json
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\bin\Debug\net6.0-windows\ProjektKolory.dll
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\bin\Debug\net6.0-windows\ProjektKolory.pdb
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ProjektKolory.dll
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\refint\ProjektKolory.dll
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ProjektKolory.pdb
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ProjektKolory.genruntimeconfig.cache
+C:\Codding\CSharp\ProjektKolory\ProjektKolory\obj\Debug\net6.0-windows\ref\ProjektKolory.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hHBOYlbIZF8+9xlY2+jcLsbU5GY4tScKrU3SQb0WMOzgfRywB9n0qM+a7VAvsvxIl76ucQ5uwi1CIaxCnlXpiA==",
+  "success": true,
+  "projectFilePath": "C:\\Codding\\CSharp\\DragAndDrop\\DragAndDrop\\DragAndDrop.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

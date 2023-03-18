@@ -1,0 +1,17 @@
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\DragAndDrop.csproj.AssemblyReference.cache
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\DragAndDrop.csproj.GenerateResource.cache
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\DragAndDrop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\DragAndDrop.AssemblyInfoInputs.cache
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\DragAndDrop.AssemblyInfo.cs
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\DragAndDrop.csproj.CoreCompileInputs.cache
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\bin\Debug\net6.0-windows\DragAndDrop.exe
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\bin\Debug\net6.0-windows\DragAndDrop.deps.json
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\bin\Debug\net6.0-windows\DragAndDrop.runtimeconfig.json
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\bin\Debug\net6.0-windows\DragAndDrop.dll
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\bin\Debug\net6.0-windows\DragAndDrop.pdb
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\DragAndDrop.dll
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\refint\DragAndDrop.dll
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\DragAndDrop.pdb
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\DragAndDrop.genruntimeconfig.cache
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\ref\DragAndDrop.dll
+C:\Codding\CSharp\DragAndDrop\DragAndDrop\obj\Debug\net6.0-windows\DragAndDrop.Form1.resources
