@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qOrfSz4MyY0a2bBiB8r2eu5fJvwxS4U6jKqoLgg66aS7QBcTXndusVkigrJWUaTCPAvf80VhmqPZEoxaON/6aQ==",
+  "success": true,
+  "projectFilePath": "C:\\Codding\\CSharp\\ToDoList\\ToDoList\\ToDoList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\pilif\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.13\\microsoft.netcore.app.host.win-x64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

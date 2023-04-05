@@ -1,0 +1,17 @@
+C:\Codding\CSharp\ToDoList\ToDoList\bin\Debug\net6.0-windows\ToDoList.exe
+C:\Codding\CSharp\ToDoList\ToDoList\bin\Debug\net6.0-windows\ToDoList.deps.json
+C:\Codding\CSharp\ToDoList\ToDoList\bin\Debug\net6.0-windows\ToDoList.runtimeconfig.json
+C:\Codding\CSharp\ToDoList\ToDoList\bin\Debug\net6.0-windows\ToDoList.dll
+C:\Codding\CSharp\ToDoList\ToDoList\bin\Debug\net6.0-windows\ToDoList.pdb
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.AssemblyReference.cache
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ToDoList.Form1.resources
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.GenerateResource.cache
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ToDoList.AssemblyInfoInputs.cache
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ToDoList.AssemblyInfo.cs
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ToDoList.csproj.CoreCompileInputs.cache
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ToDoList.dll
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\refint\ToDoList.dll
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ToDoList.pdb
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ToDoList.genruntimeconfig.cache
+C:\Codding\CSharp\ToDoList\ToDoList\obj\Debug\net6.0-windows\ref\ToDoList.dll
